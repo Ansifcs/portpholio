@@ -17,9 +17,6 @@ const skills = [
 ];
 
 function Skills() {
-
-
-  
   return (
     <div className="bg-gray-900 flex gap-2">
 
